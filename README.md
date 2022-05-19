@@ -50,9 +50,6 @@ python -m ipykernel install --user --name=HyperAid
 ```
 After that, you should be able to choose the correct kernel for Jupyter notebooks. 
 
-## Run HyperAid
-Please check the notebook `HyperAid.ipynb` for detailed instructions. Most of our experiments can be done with it. If you want to further reproduce the results pertaining to TREX, please check `TREX_wrapper.ipynb`. For results pertain to Ufit, please check `Ufit_wrapper.ipynb`.
-
 ## Citation
 
 If you find this code useful, please cite the following paper:
