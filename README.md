@@ -49,3 +49,11 @@ conda install -c anaconda ipykernel
 python -m ipykernel install --user --name=HyperAid
 '''
 After that, you should be able to choose the correct kernel for Jupyter notebooks. 
+
+## Citation
+
+If you find this code useful, please cite the following paper:
+
+```
+TBD
+```
