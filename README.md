@@ -63,3 +63,6 @@ TBD
 
 ## Community Contributions
 If you have developed or implemented any tree-metric or ultra-metric methods and you want to combine with HyperAid, please either submit a pull request or contact me (ichien3@illinois.edu). Also, if you managed to make a python version of NJ (even with advanced clean up steps as in TREX or scalable version), please let me know! I would really appriciate such contributions!
+
+## Issues
+If you find any issues about our code, please open an issue **and** email me (ichien3@illinois.edu) in case I do not receive the notification correctly. I will try to address them as soon as possible :)
