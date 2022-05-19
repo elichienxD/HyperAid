@@ -1,5 +1,5 @@
-# Our Modification
-This code is developed based on the HypHC repository, which you can find their original read me at the end of this file.
+# HyperAid: Denoising in hyperbolic spaces for tree-fitting and hierarchical clustering
+This is the code for our KDD 2022 paper "HyperAid: Denoising in hyperbolic spaces for tree-fitting and hierarchical clustering". The code is developed based on both [HypHC](https://github.com/HazyResearch/HypHC) and [TreeRep](https://github.com/rsonthal/TreeRep). Please also check their repositories and readme files.
 
 ## Install HyperAid
 The instruction is largely based on those for HypHC.
@@ -12,7 +12,7 @@ conda activate HyperAid
 Then install all required packages using by HypHC.
 ```pip install -r requirements.txt```
 
-Note that we do not use `mst` and `unionfind` packages, albeit we include them in our code.
+Note that we do not use `mst` and `unionfind` packages for HyperAid. You may ignore them safely if you merely want to run our code.
 
 We already included all datasets used in our experiments. However, if you want to start from scratch please run
 ```source download_data.sh```
