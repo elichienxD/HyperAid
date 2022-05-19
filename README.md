@@ -60,3 +60,6 @@ If you find this code useful, please cite the following paper:
 ```
 TBD
 ```
+
+## Community Contributions
+If you have developed or implemented any tree-metric or ultra-metric methods and you want to combine with HyperAid, please either submit a pull request or contact me (ichien3@illinois.edu). Also, if you managed to make a python version of NJ (even with advanced clean up steps as in TREX or scalable version), please let me know! I would really appriciate such contributions!
