@@ -1,0 +1,1 @@
+{"seed": 0, "epochs": 50, "batch_size": 256, "learning_rate": 0.001, "eval_every": 1, "patience": 30, "optimizer": "RAdam", "save": 1, "fast_decoding": 1, "num_samples": 100000, "dtype": "double", "rank": 2, "temperature": 0.1, "init_size": 0.05, "anneal_every": 50, "anneal_factor": 0.5, "max_scale": 0.999, "dataset": "zoo"}
