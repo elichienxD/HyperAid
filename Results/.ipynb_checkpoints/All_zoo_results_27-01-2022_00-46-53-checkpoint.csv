@@ -1,4 +1,0 @@
-Dataset,Num nodes,Enc,Dec,Emb loss,Mean,Std,Best,Bad time,Enc time,Dec time
-zoo,64,Direct,NJ,-1.0,11.774318836595722,-1.0,11.774318836595722,0.0,-1.0,0.3117027282714844
-zoo,64,Hyp,NJ,7.346004610086982,9.575508479729002,-1.0,9.575508479729002,0.0,718.0095384120941,0.40506839752197266
-# Namespace(Normalization=False, anneal_every=50, anneal_factor=1.0, batch_size=100000, burnin=30, burnin_factor=10, c=1.0, check_tree=False, dataset='zoo', dec_method='NJ', dec_repeat=1, dtype='double', enc_method='Hyp', epochs=500, eval_every=1, fast_decoding=1, init_size=1e-06, learning_rate=0.01, max_scale=0.999, num_nodes=64, num_samples=-1, optimizer='RAdam', p=2, patience=50, rank=128, save=False, scaling_factor=1.0, seed=1, temperature=0.01, verbose=False)
