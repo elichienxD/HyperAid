@@ -44,10 +44,10 @@ Now you should be able to run our HyperAid with decoder choice of TreeRep and NJ
 
 Remark: Please remember to set up the conda enviroment as a Jupyter kernal before running Jupyter notebooks. To do so, please execute the following command.
 
-'''
+```
 conda install -c anaconda ipykernel
 python -m ipykernel install --user --name=HyperAid
-'''
+```
 After that, you should be able to choose the correct kernel for Jupyter notebooks. 
 
 ## Citation
