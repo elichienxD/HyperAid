@@ -1,5 +1,5 @@
 # HyperAid: Denoising in hyperbolic spaces for tree-fitting and hierarchical clustering
-This is the code for our KDD 2022 paper "HyperAid: Denoising in hyperbolic spaces for tree-fitting and hierarchical clustering". The code is developed based on both [HypHC](https://github.com/HazyResearch/HypHC) and [TreeRep](https://github.com/rsonthal/TreeRep). Please also check their repositories and readme files.
+This is the code for our KDD 2022 paper "[HyperAid: Denoising in hyperbolic spaces for tree-fitting and hierarchical clustering](https://arxiv.org/pdf/2205.09721.pdf)". The code is developed based on both [HypHC](https://github.com/HazyResearch/HypHC) and [TreeRep](https://github.com/rsonthal/TreeRep). Please also check their repositories and readme files.
 
 ## Install HyperAid
 The instruction is largely based on those for HypHC.
