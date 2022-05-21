@@ -58,6 +58,36 @@ If you find this code useful, please cite the following paper:
 TBD
 ```
 
+Please also cite the following paper, as our code is developed based on their repository.
+```
+@inproceedings{NEURIPS2020_ac10ec1a,
+ author = {Chami, Ines and Gu, Albert and Chatziafratis, Vaggos and R\'{e}, Christopher},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {H. Larochelle and M. Ranzato and R. Hadsell and M. F. Balcan and H. Lin},
+ pages = {15065--15076},
+ publisher = {Curran Associates, Inc.},
+ title = {From Trees to Continuous Embeddings and Back: Hyperbolic Hierarchical Clustering},
+ url = {https://proceedings.neurips.cc/paper/2020/file/ac10ec1ace51b2d973cd87973a98d3ab-Paper.pdf},
+ volume = {33},
+ year = {2020}
+}
+```
+
+Please also cite the following paper if you leverage the TreeRep method as the decoder.
+```
+ @inproceedings{NEURIPS2020_093f65e0,
+   author = {Sonthalia, Rishi and Gilbert, Anna},
+   booktitle = {Advances in Neural Information Processing Systems},
+   editor = {H. Larochelle and M. Ranzato and R. Hadsell and M. F. Balcan and H. Lin},
+   pages = {845--856},
+   publisher = {Curran Associates, Inc.},
+   title = {Tree! I am no Tree! I am a low dimensional Hyperbolic Embedding},
+   url = {https://proceedings.neurips.cc/paper/2020/file/093f65e080a295f8076b1c5722a46aa2-Paper.pdf},
+   volume = {33},
+   year = {2020}
+  }
+```
+
 ## Community Contributions
 If you have developed or implemented any tree-metric or ultra-metric methods and you want to combine with HyperAid, please either submit a pull request or contact me (ichien3@illinois.edu). Also, if you managed to make a python version of NJ (even with advanced clean up steps as in TREX or scalable version), please let me know! I would really appriciate such contributions!
 
