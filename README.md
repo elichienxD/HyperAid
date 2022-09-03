@@ -55,7 +55,22 @@ After that, you should be able to choose the correct kernel for Jupyter notebook
 If you find this code useful, please cite the following paper:
 
 ```
-TBD
+@inproceedings{10.1145/3534678.3539378,
+author = {Chien, Eli and Tabaghi, Puoya and Milenkovic, Olgica},
+title = {HyperAid: Denoising in Hyperbolic Spaces for Tree-Fitting and Hierarchical Clustering},
+year = {2022},
+isbn = {9781450393850},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3534678.3539378},
+doi = {10.1145/3534678.3539378},
+booktitle = {Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+pages = {201–211},
+numpages = {11},
+keywords = {hierachical clustering, tree-metric, hyperbolic},
+location = {Washington DC, USA},
+series = {KDD '22}
+}
 ```
 
 Please also cite the following paper, as our code is developed based on their repository.
